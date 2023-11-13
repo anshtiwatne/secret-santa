@@ -1,0 +1,27 @@
+{
+	"id": "/",
+	"dir": "ltr",
+	"lang": "en",
+	"name": "IV Secret Santa",
+	"scope": "/",
+	"display": "standalone",
+	"start_url": "/",
+	"short_name": "Secret Santa",
+	"theme_color": "#F1F5F9",
+    "categories": [
+        "games"
+    ],
+	"description": "The Inspirit Vision Secret Santa game",
+	"orientation": "portrait-primary",
+	"background_color": "#FFFFFF",
+	"related_applications": [],
+	"prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/santa-hat.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        }
+    ]
+}
